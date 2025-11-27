@@ -58,7 +58,7 @@ The checker validates passwords based on five essential criteria:
 
 1. Download or clone this repository:
 ```bash
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/agarwalkomal23/password-strength-checker.git
 ```
 
 2. Navigate to the project folder:
@@ -82,7 +82,7 @@ cd password-strength-checker
 1. Fork this repository
 2. Go to Settings → Pages
 3. Select main branch as source
-4. Your site will be live at: `https://yourusername.github.io/password-strength-checker/`
+4. Your site will be live at: `https://agarwalkomal23.github.io/password-strength-checker/`
 
 ## 📁 Project Structure
 ```
@@ -165,7 +165,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 🐛 Known Issues
 
-- None currently! Report issues [here](https://github.com/yourusername/password-strength-checker/issues)
+- None currently! Report issues [here](https://github.com/agarwalkomal23/password-strength-checker/issues)
 
 ## 📄 License
 
@@ -174,9 +174,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@agarwalkomal23](https://github.com/agarwalkomal23)
+- LinkedIn: [KOMAL AGARWAL](www.linkedin.com/in/komal-agarwal-53a56425b)
+- Email: komal032304@gmail.com
 
 ## 🌟 Acknowledgments
 
@@ -186,10 +186,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/password-strength-checker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/password-strength-checker?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/password-strength-checker)
-![GitHub license](https://img.shields.io/github/license/yourusername/password-strength-checker)
+![GitHub stars](https://img.shields.io/github/stars/agarwalkomal23/password-strength-checker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/agarwalkomal23/password-strength-checker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/agarwalkomal23/password-strength-checker)
+![GitHub license](https://img.shields.io/github/license/agarwalkomal23/password-strength-checker)
 
 ---
 
@@ -197,56 +197,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ and JavaScript
 ```
-
----
-
-## 📸 HOW TO CREATE SCREENSHOTS
-
-### **Step 1: Take Screenshots**
-
-1. **Open your `index.html` in browser**
-
-2. **For Main Screenshot (screenshot.png):**
-   - Type a moderate password like `Password123`
-   - Press **Windows Key + Shift + S** (Windows) or **Cmd + Shift + 4** (Mac)
-   - Select the application area
-   - Save as `screenshot.png`
-
-3. **For Weak Password (screenshots/weak.png):**
-   - Type `password`
-   - Take screenshot
-   - Save as `weak.png`
-
-4. **For Moderate Password (screenshots/moderate.png):**
-   - Type `Password123`
-   - Take screenshot
-   - Save as `moderate.png`
-
-5. **For Strong Password (screenshots/strong.png):**
-   - Type `P@ssw0rd123!`
-   - Take screenshot
-   - Save as `strong.png`
-
----
-
-## 📁 FINAL PROJECT STRUCTURE
-
-Create this folder structure before uploading:
-```
-password-strength-checker/
-│
-├── index.html
-├── README.md
-├── LICENSE
-├── screenshot.png
-│
-└── screenshots/
-    ├── weak.png
-    ├── moderate.png
-    └── strong.png
-```
-
----
 
 ## 📜 LICENSE FILE
 
