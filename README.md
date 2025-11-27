@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@agarwalkomal23](https://github.com/agarwalkomal23)
-- LinkedIn: [KOMAL AGARWAL](www.linkedin.com/in/komal-agarwal-53a56425b)
+- LinkedIn: [Komal Agarwal](www.linkedin.com/in/komal-agarwal-53a56425b)
 - Email: komal032304@gmail.com
 
 ## 🌟 Acknowledgments
