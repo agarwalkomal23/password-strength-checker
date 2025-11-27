@@ -202,13 +202,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ and JavaScript
 ```
 
-## 📜 LICENSE FILE
 
-Create a file named `LICENSE` and paste this:
-```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 [KOMAL AGARWAL]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
