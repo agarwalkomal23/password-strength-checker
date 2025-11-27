@@ -40,7 +40,8 @@ The checker validates passwords based on five essential criteria:
 ![Weak Password](screenshots/weak.png)
 
 ### Moderate Password
-![Moderate Password](screenshots/moderate.png)
+![Moderate Password]<img width="1920" height="1080" alt="Screenshot 2025-11-27 143618" src="https://github.com/user-attachments/assets/6e0563ea-fbf5-4675-8015-dc6643df0035" />
+()
 
 ### Strong Password
 ![Strong Password](screenshots/strong.png)
