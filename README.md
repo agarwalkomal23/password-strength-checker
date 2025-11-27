@@ -3,7 +3,8 @@
 
 A beautiful, interactive web application that checks password strength in real-time using regex-based criteria. Built with pure HTML, CSS, and JavaScript - no dependencies required!
 
-![Password Strength Checker](screenshot.png)
+![Password Strength Checker](<img width="1920" height="1080" alt="Screenshot 2025-11-27 144515" src="https://github.com/user-attachments/assets/ea1b9601-d9f9-4e60-a2d8-a55a2fbffbf7" />
+)
 
 ## ✨ Features
 
@@ -37,14 +38,16 @@ The checker validates passwords based on five essential criteria:
 ## 🖥️ Screenshots
 
 ### Weak Password
-![Weak Password](screenshots/weak.png)
+![Weak Password](<img width="1920" height="1080" alt="Screenshot 2025-11-27 143553" src="https://github.com/user-attachments/assets/3a484472-d82f-4e09-a14e-ed38578a69e7" />
+)
 
 ### Moderate Password
 ![Moderate Password]<img width="1920" height="1080" alt="Screenshot 2025-11-27 143618" src="https://github.com/user-attachments/assets/6e0563ea-fbf5-4675-8015-dc6643df0035" />
 ()
 
 ### Strong Password
-![Strong Password](screenshots/strong.png)
+![Strong Password](<img width="1920" height="1080" alt="Screenshot 2025-11-27 143518" src="https://github.com/user-attachments/assets/1fe33afb-4acd-48af-bcd4-b99cb3ec67f0" />
+)
 
 ## 🛠️ Technologies Used
 
